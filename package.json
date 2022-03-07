@@ -1,0 +1,33 @@
+{
+  "name": "npm_publish",
+  "version": "0.0.0",
+  "description": "create publish module with autoupdate",
+  "main": "src/module.js",
+  "scripts": {
+    "test": "npm install && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdk2004/npm_publish.git"
+  },
+  "author": "devdk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "colors": "^1.4.0",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "node": "^16.10.0",
+    "node-fetch": "^3.2.0",
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.1.0",
+    "@commitlint/config-conventional": "^16.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "bugs": {
+    "url": "https://github.com/devdk2004/npm_publish/issues"
+  },
+  "homepage": "https://github.com/devdk2004/npm_publish#readme"
+}
