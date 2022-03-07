@@ -4,7 +4,8 @@
   "description": "create publish module with autoupdate",
   "main": "src/module.js",
   "scripts": {
-    "test": "npm install && node ."
+    "start": "node .",
+    "test": "node . && node src/testing.js"
   },
   "repository": {
     "type": "git",
