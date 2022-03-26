@@ -17,10 +17,7 @@
     "axios": "^0.21.2",
     "colors": "^1.4.0",
     "express": "^4.17.2",
-    "fs": "^0.0.1-security",
-    "glob": "^7.2.0",
-    "node": "^16.10.0",
-    "node-fetch": "^3.2.0"
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
