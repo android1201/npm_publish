@@ -2,9 +2,9 @@ name: Publish to NPM
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [ devdk2004 ]
   pull_request:
-    branches: [ $default-branch ]
+    branches: [ devdk2004 ]
 
 jobs:
   publish:
