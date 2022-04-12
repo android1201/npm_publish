@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.2",
-    "colors": "^1.4.0",
+    "colors": "^1.4.1",
     "express": "^4.17.2",
     "fs": "^0.0.1-security"
   },
